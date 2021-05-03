@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/numbertheorycalculator/static/css/main.2bcc6774.chunk.css",
+    "main.js": "/numbertheorycalculator/static/js/main.6d0a0cde.chunk.js",
+    "main.js.map": "/numbertheorycalculator/static/js/main.6d0a0cde.chunk.js.map",
+    "runtime-main.js": "/numbertheorycalculator/static/js/runtime-main.ccdf22f1.js",
+    "runtime-main.js.map": "/numbertheorycalculator/static/js/runtime-main.ccdf22f1.js.map",
+    "static/js/2.777cf1a1.chunk.js": "/numbertheorycalculator/static/js/2.777cf1a1.chunk.js",
+    "static/js/2.777cf1a1.chunk.js.map": "/numbertheorycalculator/static/js/2.777cf1a1.chunk.js.map",
+    "static/js/3.cc18272b.chunk.js": "/numbertheorycalculator/static/js/3.cc18272b.chunk.js",
+    "static/js/3.cc18272b.chunk.js.map": "/numbertheorycalculator/static/js/3.cc18272b.chunk.js.map",
+    "index.html": "/numbertheorycalculator/index.html",
+    "static/css/main.2bcc6774.chunk.css.map": "/numbertheorycalculator/static/css/main.2bcc6774.chunk.css.map",
+    "static/js/2.777cf1a1.chunk.js.LICENSE.txt": "/numbertheorycalculator/static/js/2.777cf1a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccdf22f1.js",
+    "static/js/2.777cf1a1.chunk.js",
+    "static/css/main.2bcc6774.chunk.css",
+    "static/js/main.6d0a0cde.chunk.js"
+  ]
+}
