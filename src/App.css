@@ -1,5 +1,23 @@
 .App {
   text-align: center;
+  color: white;
+}
+
+body {
+  background-color: maroon;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  font-size: 18pt;
+}
+
+p{
+  font-size: 14pt;
 }
 
 .App-logo {
